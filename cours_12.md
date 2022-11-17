@@ -1,5 +1,7 @@
 # Cours 12
 ## Préparation de la présentation 3 
-Joindre des images de votre tempête d'idée et des esquisses de votre projet. Expliquer en 2 à 3 lignes votre projet. 
+ 
 
+
+Pour notre projet, on a choisit l'entreprise Moment Factory, parce que j'aime bien les parours illuminées accopagnées de musique. J'ai visité Tonga Lumina cet été et cela m'a beaucoup inspiré, donc moi et mon coéquipier avont décidés de présenter un nouveau parcours immersif illuminé comme Tonga Lumina.
 ![Capture.PNG](Images/Capture.PNG)
