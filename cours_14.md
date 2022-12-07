@@ -12,7 +12,7 @@ c'est un parcours lumineux contenant 9 installations différentes representant l
 ![scénarimage](https://github.com/MaikHamel/Journal_de_Bord_semaines_8_15/blob/main/Images/scenarimage.PNG)
 
 ### Moodboard
-! [moodborad] 
+! [moodborad] (https://github.com/MaikHamel/Journal_de_Bord_semaines_8_15/blob/main/Images/moodboard.jpg)
 
 ### Technologies*-
 
