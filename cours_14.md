@@ -3,13 +3,12 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+ Un parcours qui vous donne une vision abstraite de l'espace.
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+c'est un parcours lumineux contenant 9 installations différentes representant l'espcace. Chaque instalations ont leur propre musique d'arrière plan qui donne une ambiance au parcours.
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
