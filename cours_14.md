@@ -12,7 +12,7 @@ c'est un parcours lumineux contenant 9 installations différentes representant l
 ![scénarimage](https://github.com/MaikHamel/Journal_de_Bord_semaines_8_15/blob/main/Images/scenarimage.PNG)
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+! [moodborad] 
 
 ### Technologies*-
 
