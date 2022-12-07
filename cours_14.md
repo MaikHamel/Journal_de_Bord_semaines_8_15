@@ -9,12 +9,12 @@ Durée: 8 à 10 minutes
 c'est un parcours lumineux contenant 9 installations différentes representant l'espcace. Chaque instalations ont leur propre musique d'arrière plan qui donne une ambiance au parcours.
 
 ### Schéma du projet ou scénarimage
+![scénarimage](https://github.com/MaikHamel/Journal_de_Bord_semaines_8_15/blob/main/Images/scenarimage.PNG)
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
-### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+### Technologies*-
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+Les taches nécéssaires à notre présentation sont la programmation, la gestion de projets, l'animation 2d, la conception sonore, la direction artistique, le design des instalations, le graphisme, placer les installations, trouver la localisation de l'experience et la direction technique.
